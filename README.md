@@ -37,6 +37,10 @@ To contribute or use this project, you need the following:
 
 No installation is required to view the deployed website. Simply open your web browser and navigate to [https://avr99j.github.io/coderefactor_accessibility/](https://avr99j.github.io/coderefactor_accessibility/) to access the optimized and accessible Horiseon Social Solution Services website.
 
+Screenshot of the webpage:
+![image](https://github.com/Avr99j/coderefactor_accessibility/assets/71075582/6fc04cba-fce7-494e-8974-50ebcf592e97)
+
+
 ## 4. Usage
 
 Feel free to explore the website, and if you encounter any issues or have suggestions for further improvement, please refer to the [Contributing](#contributing) section.
