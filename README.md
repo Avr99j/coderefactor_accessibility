@@ -22,7 +22,7 @@ Horiseon Social Solution Services is committed to providing high-quality service
 
 - **Optimized CSS Stylesheets**: Streamlined and organized the CSS code to improve maintainability and ensure a more responsive design.
 
-- **Deployment**: The refactored code has been deployed and is accessible at [https://avr99j.github.io/horiseon_coderefactor_accessibility/](https://avr99j.github.io/coderefactor_accessibility/).
+- **Deployment**: The refactored code has been deployed and is accessible at [https://avr99j.github.io/horiseon_coderefactor_accessibility/](https://avr99j.github.io/horiseon_coderefactor_accessibility/).
 
 ## 3. Getting Started
 
@@ -35,9 +35,7 @@ To contribute or use this project, you need the following:
 
 ### Installation
 
-No installation is required to view the deployed website. Simply open your web browser and navigate to [https://avr99j.github.io/coderefactor_accessibility/](https://avr99j.github.io/coderefactor_accessibility/) to access the optimized and accessible Horiseon Social Solution Services website.
-
-Screenshot of the webpage:
+No installation is required to view the deployed website. Simply open your web browser and navigate to [https://avr99j.github.io/coderefactor_accessibility/](https://avr99j.github.io/horiseon_coderefactor_accessibility/) to access the optimized and accessible Horiseon Social Solution Services website. Screenshot of the webpage:
 ![image](https://github.com/Avr99j/coderefactor_accessibility/assets/71075582/6fc04cba-fce7-494e-8974-50ebcf592e97)
 
 
