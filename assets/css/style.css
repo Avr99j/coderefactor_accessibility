@@ -25,7 +25,7 @@ header h1 {
 }
 
 /* Style for specific element within the main heading */
-header h1 #seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
@@ -114,17 +114,17 @@ figure {
 }
 
 /* Specific styles for individual benefits */
-#benefit-lead,
-#benefit-brand,
-#benefit-cost {
+.benefit-lead,
+.benefit-brand,
+.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /* Styling for specific sections related to digital marketing */
-#search-engine-optimization,
-#online-reputation-management,
-#social-media-marketing {
+.search-engine-optimization,
+.online-reputation-management,
+.social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -134,16 +134,16 @@ figure {
 }
 
 /* Styling for images within specific sections */
-#search-engine-optimization img,
-#online-reputation-management img,
-#social-media-marketing img {
+.search-engine-optimization img,
+.online-reputation-management img,
+.social-media-marketing img {
     max-height: 200px;
 }
 
 /* Styling for heading within specific sections */
-#search-engine-optimization h2,
-#online-reputation-management h2,
-#social-media-marketing h2 {
+.search-engine-optimization h2,
+.online-reputation-management h2,
+.social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
